@@ -9,7 +9,7 @@ This is a Slice Library made for [Next.js][next].
 Run the following command to copy the Slices into your project:
 
 ```
-npx prismic-cli@latest import-library angeloashmore/slice-library-example-next
+npx prismic-cli@latest sm import-library angeloashmore/slice-library-example-next
 ```
 
 If your project is not using [Tailwind CSS][tailwindcss], install it:
