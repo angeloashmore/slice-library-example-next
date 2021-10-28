@@ -1,5 +1,6 @@
 {
-  "name": "slice-library-foo",
+  "name": "slice-library-example-next",
+  "description": "An example Slice Library for Next.js",
   "version": "0.1.0",
   "private": true,
   "scripts": {
